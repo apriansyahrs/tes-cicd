@@ -20,6 +20,6 @@
         @endif
     </head>
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
-        <h1>Pecat bae</h1>
+        <h1>Dito Kek Kontol</h1>
     </body>
 </html>
