@@ -21,7 +21,7 @@ jobs:
         password: ${{ secrets.VPS_PASSWORD }}  # Password disimpan di Secrets GitHub
         port: 22
         script: |
-          cd /var/www/html/laravel
+          cd /var/www/tes-cicd
           git pull origin main
           composer install --no-dev --prefer-dist
           php artisan migrate --force
